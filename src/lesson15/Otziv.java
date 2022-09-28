@@ -53,6 +53,6 @@ public class Otziv  {
         return "Otziv{" +
                 "rate=" + rate +
                 ", komment='" + komment + '\'' +
-                '}';
+                "}\n";
     }
 }
