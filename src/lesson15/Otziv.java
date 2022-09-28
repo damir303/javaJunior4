@@ -1,7 +1,5 @@
 package lesson15;
 
-import lesson14.Student;
-
 public class Otziv  {
     private int rate;
     private String komment;
