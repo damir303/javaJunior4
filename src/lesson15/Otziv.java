@@ -28,8 +28,6 @@ public class Otziv  {
         this.komment = komment;
     }
 
-
-
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -53,6 +51,6 @@ public class Otziv  {
         return "Otziv{" +
                 "rate=" + rate +
                 ", komment='" + komment + '\'' +
-                "}\n";
+                "}";
     }
 }
